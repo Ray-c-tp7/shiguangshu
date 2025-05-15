@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.21e4ce23.css",
-    "main.js": "/static/js/main.23965c58.js",
-    "static/js/931.d14e35c1.chunk.js": "/static/js/931.d14e35c1.chunk.js",
-    "static/media/a8b782e7-4e01-4b44-b230-d69d8ea531b1.png": "/static/media/a8b782e7-4e01-4b44-b230-d69d8ea531b1.d9c94fd4593c0d0f8d41.png",
-    "service-worker.js": "/service-worker.js",
-    "index.html": "/index.html",
-    "main.21e4ce23.css.map": "/static/css/main.21e4ce23.css.map",
-    "main.23965c58.js.map": "/static/js/main.23965c58.js.map",
-    "931.d14e35c1.chunk.js.map": "/static/js/931.d14e35c1.chunk.js.map"
+    "main.css": "/shiguangshu/static/css/main.21e4ce23.css",
+    "main.js": "/shiguangshu/static/js/main.4a78cc6d.js",
+    "static/js/931.d14e35c1.chunk.js": "/shiguangshu/static/js/931.d14e35c1.chunk.js",
+    "static/media/a8b782e7-4e01-4b44-b230-d69d8ea531b1.png": "/shiguangshu/static/media/a8b782e7-4e01-4b44-b230-d69d8ea531b1.d9c94fd4593c0d0f8d41.png",
+    "service-worker.js": "/shiguangshu/service-worker.js",
+    "index.html": "/shiguangshu/index.html",
+    "main.21e4ce23.css.map": "/shiguangshu/static/css/main.21e4ce23.css.map",
+    "main.4a78cc6d.js.map": "/shiguangshu/static/js/main.4a78cc6d.js.map",
+    "931.d14e35c1.chunk.js.map": "/shiguangshu/static/js/931.d14e35c1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.21e4ce23.css",
-    "static/js/main.23965c58.js"
+    "static/js/main.4a78cc6d.js"
   ]
 }
